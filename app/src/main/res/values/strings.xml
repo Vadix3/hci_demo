@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">hci_demo</string>
+
+    <string-array name="user_types">
+        <item>User type</item>
+        <item>Client</item>
+        <item>Business Owner</item>
+        <item>Covid patient</item>
+        <item>Epidemiologist</item>
+    </string-array>
+</resources>
